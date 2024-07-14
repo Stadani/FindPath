@@ -1,3 +1,5 @@
+package algorithm;
+
 public class Maze {
     private final char[][] grid;
     private int startRow;

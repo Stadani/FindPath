@@ -1,3 +1,5 @@
+package algorithm;
+
 import java.io.IOException;
 
 public class Main {
